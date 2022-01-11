@@ -41,7 +41,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "techme@live.cn"
+# email: "techme@live.cn"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
   github: megatontech
@@ -52,15 +52,15 @@ social-network-links:
 #  reddit: yourname
   linkedin: megatontech
 #  xing: yourname
-   stackoverflow: "337845818/megatontech"
-   snapchat: megatontech
+  stackoverflow: "337845818/megatontech"
+  snapchat: megatontech
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-   steam: megatontech
+  steam: megatontech
 #  twitch: yourname
 #  yelp: yourname
-   telegram: megatontech
+  telegram: megatontech
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
